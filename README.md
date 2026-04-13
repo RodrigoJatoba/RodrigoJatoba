@@ -19,8 +19,8 @@
 
 <div>
 <a href="https://github.com/RodrigoJatoba">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoJatoba&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoJatoba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
@@ -32,6 +32,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-jatobá-9ab11b238/)
 [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rodrigosouza_al@hotmail.com)
 
+![Snake animation](https://github.com/RodrigoJatoba/RodrigoJatoba/blob/output/github-contribution-grid-snake.svg)
 <!--
 **RodrigoJatoba/RodrigoJatoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
