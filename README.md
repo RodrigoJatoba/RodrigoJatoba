@@ -7,7 +7,7 @@
 - Sou formado em Administração de Empresas desde 2011 pela Estácio Fal, mas  senti necessidade de mudar de área e acredito que a programação seja o caminho;
 - Sempre trabalhei na área administrativa e comercial;
 - No momento estou só estudando pela Alura;
-- Sou de Maceió / Alagoas
+- Sou de Maceió / Alagoas.
 
 ---
 
