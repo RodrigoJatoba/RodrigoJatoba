@@ -31,7 +31,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-jatobá-9ab11b238/)
 [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rodrigosouza_al@hotmail.com)
 
-![Snake animation](https://github.com/RodrigoJatoba/RodrigoJatoba/blob/output/github-contribution-grid-snake.svg)
+![Profile views](https://komarev.com/ghpvc/?username=RodrigoJatoba&color=blue)
 <!--
 **RodrigoJatoba/RodrigoJatoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
