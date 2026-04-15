@@ -20,8 +20,8 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RodrigoJatoba&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RodrigoJatoba&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoJatoba&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoJatoba&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
